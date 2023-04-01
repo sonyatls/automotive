@@ -257,4 +257,6 @@ body {
 .footer__text span {
    color: var(--red);
 }
-.footer__img { }
+.footer__img { 
+   /*новый коммент*/
+}
